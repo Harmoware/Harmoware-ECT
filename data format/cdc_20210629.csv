@@ -1,4 +1,4 @@
-﻿time,V/V,I/A
+﻿time [sec],V [mV],I [mA]
 1,2,1
 2,3,1
 3,4,1
