@@ -10,6 +10,6 @@ Harmoware Electrochemical Telemetry
 
 2. N. Togasaki, T. Yokoshima, and T. Osaka, “Detection of Over-Discharged Nickel Cobalt Aluminum Oxide Lithium Ion Cells Using Electrochemical Impedance Spectroscopy and Differential Voltage Analysis” , J. Electrochem. Soc., 168, 070525 (2021).
 
-![alt text](https://github.com/Harmoware/Harmoware-ECT/blob/main/fig1.jpg?raw=true)
+![alt text](https://github.com/Harmoware/Harmoware-ECT/blob/main/Ffig1.jpg?raw=true)
 
 Presented by Waseda Univ.
