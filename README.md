@@ -12,4 +12,4 @@ Harmoware Electrochemical Telemetry
 
 ![alt text](https://github.com/Harmoware/Harmoware-ECT/blob/main/Fig/fig1.jpg?raw=true)
 
-Presented by Waseda Univ.
+_Presented by Waseda Univ._
