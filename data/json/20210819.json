@@ -2,7 +2,7 @@
     "header": {
         "ID": "LPA142_20210819",
         "date": "20210819",
-        "time": "16:50:52",
+        "time": "17:02:47",
         "cdc": "1",
         "imp": "1",
         "cell spec3": "NULL",
@@ -12,7 +12,7 @@
     "cdc_header": {
         "cdc-ID": "cdc_20210819",
         "cdc date": "20210819",
-        "cdc time": "16:50:52",
+        "cdc time": "17:02:47",
         "cdc spec1": "NULL",
         "cdc spec2": "NULL",
         "cdc spec3": "NULL",
@@ -22,7 +22,7 @@
     "imp_header": {
         "imp-ID": "imp_20210819",
         "imp date": "20210819",
-        "imp time": "16:50:52",
+        "imp time": "17:02:47",
         "imp spec1": "NULL",
         "imp spec2": "NULL",
         "imp spec3": "NULL",
