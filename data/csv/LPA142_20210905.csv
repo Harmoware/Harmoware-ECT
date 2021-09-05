@@ -1,0 +1,4 @@
+ID,date,time,cdc,imp,cell spec3,cell spec4,cell spec5
+LPA142_20210905,20210905,11:00:14,1,0,,,
+cdc-ID,cdc date,cdc time,cdc spec1,cdc spec2,cdc spec3,cdc spec4,cdc spec5
+cdc_20210905,20210905,11:00:14,,,,,
